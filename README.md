@@ -21,7 +21,7 @@ You need to have Node.js and npm installed on your machine.
 3. Install dependencies
    ```sh
    npm install
-   
+   ```
 ##Usage
 
 To run the project locally, you can use the following npm script: 
