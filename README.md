@@ -1,8 +1,36 @@
-# React + Vite
+# Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a project replicated from a figma design for internship in Radiant Riches LLC
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To get a local copy up and running, follow these steps:
+
+### Prerequisites
+
+You need to have Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository
+   ```sh
+   git clone https://github.com/your_username/your_project.git
+   
+2. Navigate to the project directory
+   
+3. Install dependencies
+   ```sh
+   npm install
+   
+#Usage
+To run the project locally, you can use the following npm script: 
+```sh
+  npm run start
+```
+This will start the development server and you can view the project in your browser at http://localhost:5173
+
+#Technologies
+This project was built using:
+
+1. React
+2. Tailwind CSS
