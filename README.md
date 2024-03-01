@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 This is a project replicated from a figma design for internship in Radiant Riches LLC
 
@@ -22,14 +22,14 @@ You need to have Node.js and npm installed on your machine.
    ```sh
    npm install
    
-#Usage
+##Usage
 To run the project locally, you can use the following npm script: 
 ```sh
   npm run start
 ```
 This will start the development server and you can view the project in your browser at http://localhost:5173
 
-#Technologies
+##Technologies
 This project was built using:
 
 1. React
