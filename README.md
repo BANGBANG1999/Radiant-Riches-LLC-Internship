@@ -23,6 +23,7 @@ You need to have Node.js and npm installed on your machine.
    npm install
    
 ##Usage
+
 To run the project locally, you can use the following npm script: 
 ```sh
   npm run start
@@ -30,6 +31,7 @@ To run the project locally, you can use the following npm script:
 This will start the development server and you can view the project in your browser at http://localhost:5173
 
 ##Technologies
+
 This project was built using:
 
 1. React
