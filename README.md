@@ -14,7 +14,7 @@ You need to have Node.js and npm installed on your machine.
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your_username/your_project.git
+   git clone https://github.com/BANGBANG1999/Radiant-Riches-LLC-Internship.git
    
 2. Navigate to the project directory
    
