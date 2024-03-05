@@ -26,7 +26,7 @@ You need to have Node.js and npm installed on your machine.
 
 To run the project locally, you can use the following npm script: 
 ```sh
-  npm run start
+  npm run dev
 ```
 This will start the development server and you can view the project in your browser at http://localhost:5173
 
